@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the luggage protocol feature.
+ */
+
+include_once 'luggage_protocol.features.inc';
