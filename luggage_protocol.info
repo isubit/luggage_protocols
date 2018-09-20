@@ -1,7 +1,7 @@
 name = luggage protocol
 core = 7.x
 package = Luggage
-version = 7.x-0.1
+version = 7.x-0.2
 project = luggage_protocol
 dependencies[] = luggage_roles
 features[ctools][] = strongarm:strongarm:1
